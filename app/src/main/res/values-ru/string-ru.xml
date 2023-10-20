@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Lesson-AndroidIntroduction</string>
-    <string name="name">Name</string>
+    <string name="app_name">Основы Андройд</string>
+    <string name="name">Имя</string>
 
     <array name="array">
         <item>Item 1</item>
